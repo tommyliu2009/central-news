@@ -4,11 +4,21 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-10-24（每日自動更新）
+- 更新：2026-10-25（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-24 家長會長協會會員大會 許縣長感謝協會力挺教育政策：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=252&id=169157
+- 2026-10-24 薔琵颱風影響沖繩返台航班 中市府緊急協調機位、專車接駁 助58對聯合婚禮新人順利返家：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26051
+- 2026-10-24 薔琵颱風警報解除 中市府：紅黃線停放車輛應於明日上午7時前駛離：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,20,,,,21855
+- 2026-10-24 協助宣傳-臺中市政府觀光旅遊局辦理「2026臺中國際花毯節」：https://www.houli.taichung.gov.tw/4071988/post
+- 2026-10-24 第一救災救護大隊大雅分隊-救護訓練- 小兒正壓給氧觀念與呼吸道建立：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33046
+- 2026-10-24 第一救災救護大隊葫蘆墩高救隊-救護訓練-駐點訓練(頭家厝分隊)：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33045
+- 2026-10-24 薔琵颱風陸警解除 中市府跨局處動員 全力恢復市容與交通：https://www.taichung.gov.tw/3399432/post
+- 2026-10-24 薔琵颱風災後復原加速！中市建設局搶修進度逾8成 力拚24小時內完成道路障礙清理：https://www.taichung.gov.tw/3399416/post
+- 2026-10-24 中市仍處薔琵暴風半徑內 盧市長坐鎮指揮 全府持續戒備、加速搶修復原：https://www.taichung.gov.tw/3399394/post
+- 2026-10-24 因應薔琵颱風連續停收 中市10/25加開定時定點垃圾收運：https://www.taichung.gov.tw/3399376/post
 - 2026-10-23 停班停課訊息-臺中市115年10月24日（星期六）停止上班、停止上課：https://eoc.taichung.gov.tw/3399336/post
 - 2026-10-23 薔琵颱風來襲 中市部分紅黃線路段開放停車：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,20,,,,21854
 - 2026-10-23 最新動向-📢台中市10/24 (六) 停止上班上課：https://tcpass.taichung.gov.tw/latest-trend/view/4594c68b-6b09-44c9-9dcb-561a60a977f3
@@ -24,16 +34,6 @@
 - 2026-10-23 行政處發包科-大湖鄉義和村3鄰蔗廍坪農路改善工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1007258
 - 2026-10-23 行政處發包科-西湖鄉二湖村2鄰道路擋土牆改善工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1007322
 - 2026-10-23 行政處發包科-苗栗縣頭份市建國國小通學路徑步道改善工程第一次變更設計：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1007363
-- 2026-10-23 「南投縣工務大南投臉書粉絲專頁及相關宣導計畫」案：https://www.nantou.gov.tw/big5/bureau/caseboard_detail.php?dptid=376480000au160000&cid1=388&cid=388&id=169137
-- 2026-10-23 轉知考選部訊息：116年公務人員初等考試：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=3002&id=168971
-- 2026-10-23 2026卦山大縱走・彰化兜兜圈｜第四場次延期公告：https://tourism.chcg.gov.tw/NewsContent.aspx?id=5434&chk=3dd858aa-6ca3-4a73-a0e8-40bec52b4ba3&l=TW
-- 2026-10-23 臺中市交通事件裁決處-公布欄-最新消息：https://www.traffic.taichung.gov.tw/unit/news/index-1.asp?Parser=9,18,273,610,,,21851
-- 2026-10-23 [標案案號11552]115年度下半年高速鐵路彰化車站特定區公共設施維護管理計畫(林木整理)開口契約(第1次上網公告)：https://www.chcg.gov.tw/TSO/shetou/04bulletin/bulletin02_con.aspx?bull_id=440176
-- 2026-10-23 [標案案號11553]2026彰化社頭織襪芭樂觀光節停車場整地勞務開口契約(第1次上網公告)：https://www.chcg.gov.tw/TSO/shetou/04bulletin/bulletin02_con.aspx?bull_id=440177
-- 2026-10-23 115年南投縣政府新資訊機房、電腦教室及資訊科室辦公空間建置搬遷計畫工程委託專案管理(含監造)技術服務：https://www.nantou.gov.tw/big5/bureau/news_print.php?dptid=376480000au160000&cid=388&id=169138
-- 2026-10-22 農業處-聯大奪金不散場！苗栗邀青年共策2027臺灣燈會：https://www.miaoli.gov.tw/agriculture/News_Content.aspx?n=633&s=1007451
-- 2026-10-22 臺中市政府薔琵颱風警戒區公告：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,40,,,,33035
-- 2026-10-22 候選人抽籤時間變更公告：https://www.heping.taichung.gov.tw/983338/983410/983415/4081990
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
