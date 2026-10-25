@@ -4,11 +4,22 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-10-25（每日自動更新）
+- 更新：2026-10-26（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-25 魚池受福宮重建50週年宮慶 許縣長贈匾祝賀 全國35間宮廟齊聚共襄盛舉：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169159
+- 2026-10-25 第31屆大墩美展大墩獎得主揭曉 188件得獎作品即日起展出：https://www.taichung.gov.tw/3399755/post
+- 2026-10-25 第五救災救護大隊幼獅分隊-體技能訓練-火搶訓練- 車輛操作訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33053
+- 2026-10-25 11國羽球好手齊聚台中！2026國際福爾摩沙盃羽球錦標賽盛大開幕 2,000人次以球會友：https://www.taichung.gov.tw/3399629/post
+- 2026-10-25 海綿寶寶路跑台中歡樂登場！逾4,000人齊聚中央球場 大型氣球成打卡亮點：https://www.taichung.gov.tw/3399618/post
+- 2026-10-25 台中之光林姿妤亞帕運勇奪「三金大滿貫」！女單、混雙二連霸再創佳績：https://www.taichung.gov.tw/3399606/post
+- 2026-10-25 台中鍋烤「金」好吃！歷屆得獎名單中英日三語上線 邀國際旅客按榜尋味：https://www.taichung.gov.tw/3399582/post
+- 2026-10-25 台中智慧停車邁向國際！公私協力出擊2026 ITS大會 展出「無紙化與數據洞察」驚豔全場：https://www.taichung.gov.tw/3399574/post
+- 2026-10-25 全民運圓滿落幕！台中隊勇奪67金191面獎牌 榮獲行政院院長獎：https://www.taichung.gov.tw/3399595/post
+- 2026-10-25 10/25清潔隊員節 中市表揚60名績優隊員 感謝環保英雄付出：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26053
+- 2026-10-25 全台最大城市慶典開跑！台中購物節10/26首抽全球不限航點機票、iPhone 17：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26052
 - 2026-10-24 家長會長協會會員大會 許縣長感謝協會力挺教育政策：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=252&id=169157
 - 2026-10-24 薔琵颱風影響沖繩返台航班 中市府緊急協調機位、專車接駁 助58對聯合婚禮新人順利返家：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26051
 - 2026-10-24 薔琵颱風警報解除 中市府：紅黃線停放車輛應於明日上午7時前駛離：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,20,,,,21855
@@ -19,21 +30,10 @@
 - 2026-10-24 薔琵颱風災後復原加速！中市建設局搶修進度逾8成 力拚24小時內完成道路障礙清理：https://www.taichung.gov.tw/3399416/post
 - 2026-10-24 中市仍處薔琵暴風半徑內 盧市長坐鎮指揮 全府持續戒備、加速搶修復原：https://www.taichung.gov.tw/3399394/post
 - 2026-10-24 因應薔琵颱風連續停收 中市10/25加開定時定點垃圾收運：https://www.taichung.gov.tw/3399376/post
+- 2026-10-24 最新動向-📢台中市10/25 (日) 正常上班上課：https://tcpass.taichung.gov.tw/latest-trend/view/cd844331-6928-4dca-ab9b-bc86304f1fd5
 - 2026-10-23 停班停課訊息-臺中市115年10月24日（星期六）停止上班、停止上課：https://eoc.taichung.gov.tw/3399336/post
 - 2026-10-23 薔琵颱風來襲 中市部分紅黃線路段開放停車：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,20,,,,21854
 - 2026-10-23 最新動向-📢台中市10/24 (六) 停止上班上課：https://tcpass.taichung.gov.tw/latest-trend/view/4594c68b-6b09-44c9-9dcb-561a60a977f3
-- 2026-10-23 臺中市115年10月24日（星期六）停止上班、停止上課：https://www.taichung.gov.tw/3399338/post
-- 2026-10-23 第二救災救護大隊石岡分隊辦理體技能訓練－ 繩索救援訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33041
-- 2026-10-23 115年10月24日假日加開流感疫苗門診廠牌說明。：https://www.taichung.gov.tw/3399235/post
-- 2026-10-23 薔琵颱風來襲全面戒備！中市建設局一級應變小組開設24小時待命、經管場域同步暫停開放：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26040
-- 2026-10-23 薔琵颱風來襲 許縣長呼籲民眾慎防夜間風雨應避免外出：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=252&id=169152
-- 2026-10-23 第一救災救護大隊頭家厝分隊-體技能訓練- 水域救生器材操作訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33037
-- 2026-10-23 第一救災救護大隊豐原分隊-體技能訓練- 空氣呼吸器消耗測試訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33036
-- 2026-10-23 薔琵颱風來勢洶洶 台中地稅局提醒災損可減免稅捐：https://www.taichung.gov.tw/8868/8872/9962/3399219
-- 2026-10-23 薔琵颱風逼近！中市災害應變中心一級開設 盧市長籲非必要勿外出、嚴查AI假訊息：https://www.taichung.gov.tw/3399213/post
-- 2026-10-23 行政處發包科-大湖鄉義和村3鄰蔗廍坪農路改善工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1007258
-- 2026-10-23 行政處發包科-西湖鄉二湖村2鄰道路擋土牆改善工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1007322
-- 2026-10-23 行政處發包科-苗栗縣頭份市建國國小通學路徑步道改善工程第一次變更設計：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1007363
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
