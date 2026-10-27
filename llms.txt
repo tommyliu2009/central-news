@@ -4,36 +4,36 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-10-27（每日自動更新）
+- 更新：2026-10-28（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-10-27 深耕溫泉觀光有成！ 台中三大泉區奪2024-2025金泉獎 台日交流邁入第10年：https://travel.taichung.gov.tw/zh-tw/event/newsdetail/10437
-- 2026-10-26 台中購物節開跑2天登錄破5.5億元！首抽前進大里中興商圈送出全球不限航點機票及iPhone 17：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26074
-- 2026-10-26 薔琵颱風造成台中農損 中市農業局籲受災農民11/9前申請現金救助及低利貸款：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26073
-- 2026-10-26 2026頭份市秋季育樂派對 親子變裝創意登場：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007515
-- 2026-10-26 颱風後垃圾收運量增加 中市環保局啟動焚化廠分流調度加速進廠作業：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26072
-- 2026-10-26 南屯銜接國道路面大翻新！中市投入1,155萬元改善五權西路三段 10/27起夜間刨鋪：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26071
-- 2026-10-26 苗栗縣第 32 家日間照顧中心 頭份「油桐花綜合式長照機構」開幕：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007513
-- 2026-10-26 通霄分隊實施車輛操作訓練：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007510
-- 2026-10-26 2026貓裏客家粄食文化節 民眾大啖客家美食逛客庄好物：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007509
-- 2026-10-26 「油桐花綜合式長照機構」導入智慧科技與護智燈 打造高齡尊嚴樂活環境：https://longcare.miaoli.gov.tw/News_Content.aspx?n=2313&sms=10234&s=1004369
-- 2026-10-26 中美館國際論壇「開放中」匯聚6國專家 交流跨國經驗聚焦城市藝術史：https://www.taichung.gov.tw/3399876/post
-- 2026-10-26 颱風後浪漫登場！台中「龍神山水祭」融合客庄文化與生態永續 展現山城魅力：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26068
-- 2026-10-26 中市文化局推動歷史老屋再生 串聯城市文化脈絡 以州廳為核心重塑舊城文化新風貌：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26065
-- 2026-10-26 愛知亞帕運台中健兒勇奪3金！運動局長親赴機場迎接 獻上全市祝福：https://www.taichung.gov.tw/3399860/post
-- 2026-10-26 衛星、無人機全天候守護山林！中市府科技查緝山坡地違規開發 最高罰30萬元：https://www.taichung.gov.tw/3399821/post
-- 2026-10-26 遇颱風即時改採線上直播獲樂迷肯定！2026台中爵士音樂節圓滿落幕：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26061
-- 2026-10-26 神岡百年古廟迎新頁！中市府助寮福宮突破廟產難題 贈匾「保境安寮」祈福：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26063
-- 2026-10-26 花現三麗鷗花毯！ 中市交通局推雙鐵捷運轉乘5線 免費接駁看新社花海：https://www.taichung.gov.tw/3399769/post
-- 2026-10-26 中市公有市場安全雙防線！瓦斯遮斷裝設率98.3% 產品責任險投保逾8成：https://www.taichung.gov.tw/3399790/post
-- 2026-10-25 魚池受福宮重建50週年宮慶 許縣長贈匾祝賀 全國35間宮廟齊聚共襄盛舉：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169159
-- 2026-10-25 第31屆大墩美展大墩獎得主揭曉 188件得獎作品即日起展出：https://www.taichung.gov.tw/3399755/post
-- 2026-10-25 第五救災救護大隊幼獅分隊-體技能訓練-火搶訓練- 車輛操作訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33053
-- 2026-10-25 11國羽球好手齊聚台中！2026國際福爾摩沙盃羽球錦標賽盛大開幕 2,000人次以球會友：https://www.taichung.gov.tw/3399629/post
-- 2026-10-25 海綿寶寶路跑台中歡樂登場！逾4,000人齊聚中央球場 大型氣球成打卡亮點：https://www.taichung.gov.tw/3399618/post
-- 2026-10-25 台中之光林姿妤亞帕運勇奪「三金大滿貫」！女單、混雙二連霸再創佳績：https://www.taichung.gov.tw/3399606/post
+- 2026-10-27 雪霸國家公園至雪見道路未完成路段興建工程(62-1線)第一、二標後續工程委託設計、基地地質調查及地質安全評估、水土保持暨環差變更：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1007719
+- 2026-10-27 薔琵颱風造成本縣農業設施及仁愛鄉甜柿災損 農業部同意辦理現金救助：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au140000&cid1=726,3552&id=169173
+- 2026-10-27 打造友善如廁環境！ 中市環保局表揚114年度十大績優公廁與幕後清潔英雄：https://www.taichung.gov.tw/3400766/post
+- 2026-10-27 臺中市政府經濟發展局辦理「2026物調券第二波」活動：https://www.heping.taichung.gov.tw/4083656/post
+- 2026-10-27 臺中市政府經濟發展局辦理「2026物調券第二波」活動，10月30日起發放，歡迎市民踴躍參與：https://www.waipu.taichung.gov.tw/4083610/post
+- 2026-10-27 轉知臺中市家庭教育中心115年11月份活動一覽表圖檔。：https://www.waipu.taichung.gov.tw/4083032/post
+- 2026-10-27 台中運動i台灣成果亮眼！近5,000場活動吸引逾23萬人次參與：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26098
+- 2026-10-27 金獎加持、喜上加喜！《飢餓遊戲》主持群勇奪金鐘 盧市長賀喜：與有榮焉：https://www.taichung.gov.tw/3400956/post
+- 2026-10-27 跨網絡協力打造安全守護網 台中家防中心再摘「菁網獎」：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26092
+- 2026-10-27 轉知:臺中市政府經濟發展局訂10/27(第一場海線)、11/3(第二場山線)、11/5(第三場屯區)辦理「115年臺中市獎勵屋頂設置太陽光電發電宣導說明會」，歡迎鄉親踴躍報名參加！：https://www.taiping.taichung.gov.tw/4083350/post
+- 2026-10-27 115年11月20日（星期五）勞工免費法律諮詢服務：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007606
+- 2026-10-27 115年11月27日（星期五）勞工免費法律諮詢服務：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007607
+- 2026-10-27 中市勞工局打造全方位就業體系「找得到、有能力、能穩定、有保障」四管齊下守護勞工：https://www.eso.taichung.gov.tw/834063/834064/834065/4083669
+- 2026-10-27 邁向「醫照合一」新里程！ 國姓鄉首座公有「梅林社區長照創新整合型服務場館」啟用：https://www.nantou.gov.tw/big5/news_print.php?dptid=376480000&cid=75&id=169169
+- 2026-10-27 國道3號北上142K車禍救護案：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007520
+- 2026-10-27 通霄分隊辦理快速救援脫困板訓練：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007518
+- 2026-10-27 通霄國道3號北上142.8KM車禍救護：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007632
+- 2026-10-27 西湖分隊實施體能訓練：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007514
+- 2026-10-27 第四救災救護大隊實施空氣呼吸器耗氧訓練：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007516
+- 2026-10-27 115年11月13日（星期五）勞工免費法律諮詢服務：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007605
+- 2026-10-27 國道1號北上135k自小客車火警案：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007521
+- 2026-10-27 苗栗縣柑橘受薔琵颱風災損嚴重 鍾縣長會勘允諾全力協助爭取救助金：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007818
+- 2026-10-27 民間發起苗栗陶溯源行動 陶藝界緬懷「苗栗陶之父」岩本東作先生：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007753
+- 2026-10-27 南庄鄉加里山民眾迷途案：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007519
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
