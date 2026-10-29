@@ -4,36 +4,36 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-10-29（每日自動更新）
+- 更新：2026-10-30（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-30 2026卦山大縱走｜這個週末，彰化好精彩！ 社員們！這週末想兜兜圈、順便來點解謎？：https://tourism.chcg.gov.tw/NewsContent.aspx?id=5436&chk=5d104e8e-214f-4fae-b5d6-5d2dee6c6c1a&l=TW
 - 2026-10-29 大台中商業會慶祝第80屆商人節 表揚商界楷模、攜手拚經濟：https://tcnm.taichung.gov.tw/565123/565140/565143/nodeCp?nodeId=3401737
 - 2026-10-29 「南投市文化路青年住宅(第一期)」第2次委託讓售專業服務：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169181
 - 2026-10-29 [標案案號11549]社頭鄉龍井村水井巷擋土牆及道路改善工程(第2次上網公告)：https://www.chcg.gov.tw/TSO/shetou/04bulletin/bulletin02_con.aspx?bull_id=440398
-- 2026-10-28 ⚠️【颱風警戒｜南投縣政府轄管風景區10/24日持續休園】：https://travel.nantou.gov.tw/news-press/10%E6%9C%8824%E6%97%A5%E5%8D%97%E6%8A%95%E7%B8%A3%E5%85%A8%E7%B8%A3%E5%81%9C%E7%8F%AD%E5%81%9C%E8%AA%B2/
-- 2026-10-28 苗栗縣政府115年原住民族學生語言競賽-初賽報名表：https://cipa.miaoli.gov.tw/News_Content.aspx?n=2353&s=1008006
-- 2026-10-28 南投縣政府地政處召開115年第4次處務會議：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au150000&cid=178&id=169197
-- 2026-10-28 2026反賄選愛臺灣公益宣導影片：https://www.hdaya.taichung.gov.tw/4069134/post
-- 2026-10-28 2026反賄選愛臺灣公益宣導影片─出遊篇：https://www.taiping.taichung.gov.tw/4084211/post
-- 2026-10-28 「2026地方創生國際交流暨數位遊牧共創成果分享會」：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au210000&cid=3662&id=169192
-- 2026-10-28 飛天車真的離我們越來越近了！!：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au210000&cid=3663&id=169193
-- 2026-10-28 苗栗縣商業會慶祝商人節 縣長頒獎表揚百大伴手禮：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1008733
-- 2026-10-28 農業處-燈會還沒亮，苗栗農村先「種光」！ 居民攜手大學生共創家鄉燈藝：https://www.miaoli.gov.tw/agriculture/News_Content.aspx?n=633&sms=9582&s=1008428
-- 2026-10-28 中市交通局全國首創AI「聽音辨識」 黃副市長：救人第一、號誌先開道：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,20,,,,21866
-- 2026-10-28 中市115學年度國中普及化籃球決賽 東山高中熱血奪冠：https://www.taichung.gov.tw/3401606/post
-- 2026-10-28 中市失智照護成果展溫馨登場！12家共照中心、52處社區據點齊聚 長輩展現慢老活力：https://www.taichung.gov.tw/3401545/post
-- 2026-10-28 廢棄枝葉變身天然染料 中市大里竹仔坑11/1辦植物染成果展 展現農村循環創藝：https://www.taichung.gov.tw/3401525/post
-- 2026-10-28 賴副縣長頒獎肯定傑出選手教練 頒發257人80.8萬獎金鼓舞士氣：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1008708
-- 2026-10-28 議員提議設置匹克球場地滿足運動需求 縣長允諾會在山佳國小體育館完工後劃設：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1008704
-- 2026-10-28 貫徹「到府服務」精神！ 盧市長率市府團隊赴和平區座談 傾聽地方建言列管追蹤：https://www.taichung.gov.tw/3401486/post
-- 2026-10-28 黑早冬菇變身米乖乖！中市攜手麻豆農會跨界行銷 拓展新社優質菇類新品通路：https://www.taichung.gov.tw/3401461/post
-- 2026-10-28 台積電、美光加碼布局台中！兩大半導體巨頭投資破兆 中市府助攻打造科技產業重鎮：https://www.taichung.gov.tw/3401479/post
-- 2026-10-28 行政處發包科- 116年度苗栗縣政府竹興公設民營托嬰中心委辦計畫：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1092&sms=11690&s=1007663
-- 2026-10-28 行政處發包科-龍鳳排水安和橋及龍鳳橋上游災害復建工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1095&sms=11693&s=1007800
-- 2026-10-28 行政處發包科-獅潭鄉苗68線1K+150段道路復建工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1093&sms=11691&s=1007776
-- 2026-10-28 彰化縣政府社會處強化社會安全網計畫2.0 兼職社工助理徵選公告：https://www.chcg.gov.tw/DTO/social/03bulletin/bulletin03_con.aspx?bull_id=440435
+- 2026-10-29 行政處發包科-通霄鎮圳頭里9鄰坑溝改善工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1009538
+- 2026-10-29 國際圖書館專家齊聚綠美圖 中市圖首辦國際論壇讓世界看見台中：https://www.taichung.gov.tw/3402529/post
+- 2026-10-29 日本岩手縣議會「台灣友好議員聯盟」訪中市 黃副市長：深化棒球、農業與觀光合作：https://www.taichung.gov.tw/3402516/post
+- 2026-10-29 實現任內走遍上百基層單位承諾！盧市長和平專案「說到做到」守護原鄉幸福：https://www.taichung.gov.tw/3402286/post
+- 2026-10-29 115年10月性別統計通報「性別平等工作統計」發布囉!：https://www.dbas.taichung.gov.tw/3401876/post
+- 2026-10-29 西屯區長安路一段與甘肅路附近發生火警 中市府提醒市民加強自我防護：https://www.taichung.gov.tw/3402342/post
+- 2026-10-29 全台唯一城市！台中連續三年入選綠色旅遊基金會全球百大目的地故事獎：https://www.tourism.taichung.gov.tw/3402357/post
+- 2026-10-29 台中經濟指標連22季稱冠！AI半導體投資帶動成長 Q3公司登記資本額年增9.49%創新高：https://www.taichung.gov.tw/3402323/post
+- 2026-10-29 「第三屆長期照顧永續發展論壇暨研討會」：https://www.waipu.taichung.gov.tw/4085202/post
+- 2026-10-29 埔里鎮農會行銷木瓜產業 家政班創意料理競賽展現百變好滋味：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=252&id=169222
+- 2026-10-29 回味在地百年風華！文化局邀請周邊區長、里長參訪州廳 攜手守護城市記憶：https://www.taichung.gov.tw/3402266/post
+- 2026-10-29 第八救災救護大隊東山分隊 -救護訓練- 急產接生及新生兒復甦：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33079
+- 2026-10-29 繁花盛開-羅立君油畫個展：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=253&id=169216
+- 2026-10-29 最新動向-【台中通特店專刊】秋意漸濃鍋物滾滾暖身心《台中通TCPASS》串聯海線旅遊小確幸：https://tcpass.taichung.gov.tw/latest-trend/view/1998dd34-79db-428f-89c4-2f6d575ac7f6
+- 2026-10-29 行政處發包科-苗栗市新川里4鄰南勢溪護岸及邊坡改善工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1093&sms=11691&s=1009082
+- 2026-10-29 行政處發包科-115年度苗栗縣敬老愛心卡、身心障礙者愛心陪伴卡採購案：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1009200
+- 2026-10-29 行政處發包科-苗栗縣苑裡鎮衛生所重建衛生社福聯合大樓：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1093&sms=11691&s=1008726
+- 2026-10-29 行政處發包科-115年度苗栗縣苑裡鎮社南一農地重劃區4月豪雨災後復建工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1008651
+- 2026-10-29 行政處發包科-116年度苗栗縣政府勝麗公設民營托嬰中心委辦計畫：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1093&sms=11691&s=1008669
+- 2026-10-29 行政處發包科-苗栗市砂溝碑金滿社區附近災害復建工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1095&sms=11693&s=1008815
+- 2026-10-29 「2027臺灣燈會在苗栗-光山歌嶺展演暨原聲鈴響燈區委託專業服務案」：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1008703
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
