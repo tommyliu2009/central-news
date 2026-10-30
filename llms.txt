@@ -4,36 +4,36 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-10-30（每日自動更新）
+- 更新：2026-10-31（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-10-30 2026卦山大縱走｜這個週末，彰化好精彩！ 社員們！這週末想兜兜圈、順便來點解謎？：https://tourism.chcg.gov.tw/NewsContent.aspx?id=5436&chk=5d104e8e-214f-4fae-b5d6-5d2dee6c6c1a&l=TW
-- 2026-10-29 大台中商業會慶祝第80屆商人節 表揚商界楷模、攜手拚經濟：https://tcnm.taichung.gov.tw/565123/565140/565143/nodeCp?nodeId=3401737
-- 2026-10-29 「南投市文化路青年住宅(第一期)」第2次委託讓售專業服務：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169181
-- 2026-10-29 [標案案號11549]社頭鄉龍井村水井巷擋土牆及道路改善工程(第2次上網公告)：https://www.chcg.gov.tw/TSO/shetou/04bulletin/bulletin02_con.aspx?bull_id=440398
-- 2026-10-29 行政處發包科-通霄鎮圳頭里9鄰坑溝改善工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1009538
-- 2026-10-29 國際圖書館專家齊聚綠美圖 中市圖首辦國際論壇讓世界看見台中：https://www.taichung.gov.tw/3402529/post
-- 2026-10-29 日本岩手縣議會「台灣友好議員聯盟」訪中市 黃副市長：深化棒球、農業與觀光合作：https://www.taichung.gov.tw/3402516/post
-- 2026-10-29 實現任內走遍上百基層單位承諾！盧市長和平專案「說到做到」守護原鄉幸福：https://www.taichung.gov.tw/3402286/post
-- 2026-10-29 115年10月性別統計通報「性別平等工作統計」發布囉!：https://www.dbas.taichung.gov.tw/3401876/post
-- 2026-10-29 西屯區長安路一段與甘肅路附近發生火警 中市府提醒市民加強自我防護：https://www.taichung.gov.tw/3402342/post
-- 2026-10-29 全台唯一城市！台中連續三年入選綠色旅遊基金會全球百大目的地故事獎：https://www.tourism.taichung.gov.tw/3402357/post
-- 2026-10-29 台中經濟指標連22季稱冠！AI半導體投資帶動成長 Q3公司登記資本額年增9.49%創新高：https://www.taichung.gov.tw/3402323/post
-- 2026-10-29 「第三屆長期照顧永續發展論壇暨研討會」：https://www.waipu.taichung.gov.tw/4085202/post
-- 2026-10-29 埔里鎮農會行銷木瓜產業 家政班創意料理競賽展現百變好滋味：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=252&id=169222
-- 2026-10-29 回味在地百年風華！文化局邀請周邊區長、里長參訪州廳 攜手守護城市記憶：https://www.taichung.gov.tw/3402266/post
-- 2026-10-29 第八救災救護大隊東山分隊 -救護訓練- 急產接生及新生兒復甦：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33079
-- 2026-10-29 繁花盛開-羅立君油畫個展：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=253&id=169216
-- 2026-10-29 最新動向-【台中通特店專刊】秋意漸濃鍋物滾滾暖身心《台中通TCPASS》串聯海線旅遊小確幸：https://tcpass.taichung.gov.tw/latest-trend/view/1998dd34-79db-428f-89c4-2f6d575ac7f6
-- 2026-10-29 行政處發包科-苗栗市新川里4鄰南勢溪護岸及邊坡改善工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1093&sms=11691&s=1009082
-- 2026-10-29 行政處發包科-115年度苗栗縣敬老愛心卡、身心障礙者愛心陪伴卡採購案：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1009200
-- 2026-10-29 行政處發包科-苗栗縣苑裡鎮衛生所重建衛生社福聯合大樓：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1093&sms=11691&s=1008726
-- 2026-10-29 行政處發包科-115年度苗栗縣苑裡鎮社南一農地重劃區4月豪雨災後復建工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1008651
-- 2026-10-29 行政處發包科-116年度苗栗縣政府勝麗公設民營托嬰中心委辦計畫：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1093&sms=11691&s=1008669
-- 2026-10-29 行政處發包科-苗栗市砂溝碑金滿社區附近災害復建工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1095&sms=11693&s=1008815
-- 2026-10-29 「2027臺灣燈會在苗栗-光山歌嶺展演暨原聲鈴響燈區委託專業服務案」：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1008703
+- 2026-10-30 物調券第二波夜市開跑！台中12處夜市人潮湧現 學生揪團排隊享好康、民眾敲碗明年再辦：https://www.taichung.gov.tw/3403587/post
+- 2026-10-30 「台中巨蛋」進度超前、估119年完工！盧市長攜手隈研吾視察：打造台灣新地標：https://www.taichung.gov.tw/3403565/post
+- 2026-10-30 中市府集結專家強化防災韌性 鄭副市長：深化跨域協力、完善災害應變機制：https://www.taichung.gov.tw/3403519/post
+- 2026-10-30 南投縣南投轉運站暨商業設施興建營運移轉案可行性評估報告及先期計畫：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au250000&cid1=225&id=169233
+- 2026-10-30 黑手變金手！台中金手獎25週年 盧市長親頒20家隱形冠軍：https://www.taichung.gov.tw/3403437/post
+- 2026-10-30 天下公布標竿城市 苗栗縣長施政滿意度第3名：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009765
+- 2026-10-30 修澤蘭經典建築重現！ 東勢客家文化園區整建開工 打造浪漫台三線文化新亮點：https://www.taichung.gov.tw/3403347/post
+- 2026-10-30 成功搶救14條寶貴生命！中市消防升級水域救援裝備 導入科技救災展現亮眼成效：https://www.taichung.gov.tw/3403363/post
+- 2026-10-30 中市勤美商圈、審計新村10/29路邊智慧停車無紙化上線 綁定代扣繳享6折最優惠：https://www.taichung.gov.tw/3403297/post
+- 2026-10-30 台中物調券商圈掀追星級排隊熱潮！多數30分鐘內兌換完畢 店家估業績增2成：https://www.taichung.gov.tw/3403313/post
+- 2026-10-30 陸上划船拚速度！中市市長盃室內划船賽登場 250名學生選手齊聚大里高中競技：https://www.taichung.gov.tw/3403333/post
+- 2026-10-30 2026台中花毯節15週年盛大開箱！盧市長偕三麗鷗明星打造「甜點王國」創三大歷史之最：https://www.taichung.gov.tw/3403286/post
+- 2026-10-30 115年10月31日假日加開流感疫苗門診廠牌公告說明。：https://www.taichung.gov.tw/3403169/post
+- 2026-10-30 「116年臺中市視覺功能障礙者生活重建及生活訓練服務計畫」開始受理申請：https://www.society.taichung.gov.tw/3403194/post
+- 2026-10-30 公費雙疫苗第二階段11/2開打！邀鄉親顧健康、賺飽幣：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009751
+- 2026-10-30 「116年臺中市身心障礙者個人生活重建服務計畫」開始受理申請：https://www.society.taichung.gov.tw/3403176/post
+- 2026-10-30 「116年臺中市燒燙傷及顏面損傷者生活重建服務計畫」開始受理申請：https://www.society.taichung.gov.tw/3403188/post
+- 2026-10-30 第六救災救護大隊春社分隊火搶訓練- 項目快速脫困訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33094
+- 2026-10-30 招標資訊-【無法決標公告】臺中市豐原區豐西里多功能活動中心一樓委託經營管理：https://www.fengyuan.taichung.gov.tw/4085824/post
+- 2026-10-30 守護兒少運動安全！ 中市府辦理教練專業研習 攜手中央打造友善運動環境：https://www.taichung.gov.tw/3403131/post
+- 2026-10-30 台中第56處公托南屯文山托嬰中心開幕！精科園區增28個托育名額 助年輕家庭安心育兒：https://www.taichung.gov.tw/3403031/post
+- 2026-10-30 中市水患自主防災社區增至68處 南屯春社里加入防汛行列 1,750人攜手守護家園：https://www.taichung.gov.tw/3403090/post
+- 2026-10-30 行政處發包科-115年度眼科篩檢儀器採購案：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1095&sms=11693&s=1008934
+- 2026-10-30 行政處發包科-115年度苗栗縣揮發性有機物特徵及臭氧生成潛勢調查管制計畫後續擴充：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1009273
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
