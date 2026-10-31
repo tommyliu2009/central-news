@@ -4,36 +4,36 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-10-31（每日自動更新）
+- 更新：2026-11-01（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-10-30 2026卦山大縱走｜這個週末，彰化好精彩！ 社員們！這週末想兜兜圈、順便來點解謎？：https://tourism.chcg.gov.tw/NewsContent.aspx?id=5436&chk=5d104e8e-214f-4fae-b5d6-5d2dee6c6c1a&l=TW
-- 2026-10-30 物調券第二波夜市開跑！台中12處夜市人潮湧現 學生揪團排隊享好康、民眾敲碗明年再辦：https://www.taichung.gov.tw/3403587/post
-- 2026-10-30 「台中巨蛋」進度超前、估119年完工！盧市長攜手隈研吾視察：打造台灣新地標：https://www.taichung.gov.tw/3403565/post
-- 2026-10-30 中市府集結專家強化防災韌性 鄭副市長：深化跨域協力、完善災害應變機制：https://www.taichung.gov.tw/3403519/post
-- 2026-10-30 南投縣南投轉運站暨商業設施興建營運移轉案可行性評估報告及先期計畫：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au250000&cid1=225&id=169233
-- 2026-10-30 黑手變金手！台中金手獎25週年 盧市長親頒20家隱形冠軍：https://www.taichung.gov.tw/3403437/post
-- 2026-10-30 天下公布標竿城市 苗栗縣長施政滿意度第3名：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009765
-- 2026-10-30 修澤蘭經典建築重現！ 東勢客家文化園區整建開工 打造浪漫台三線文化新亮點：https://www.taichung.gov.tw/3403347/post
-- 2026-10-30 成功搶救14條寶貴生命！中市消防升級水域救援裝備 導入科技救災展現亮眼成效：https://www.taichung.gov.tw/3403363/post
-- 2026-10-30 中市勤美商圈、審計新村10/29路邊智慧停車無紙化上線 綁定代扣繳享6折最優惠：https://www.taichung.gov.tw/3403297/post
-- 2026-10-30 台中物調券商圈掀追星級排隊熱潮！多數30分鐘內兌換完畢 店家估業績增2成：https://www.taichung.gov.tw/3403313/post
-- 2026-10-30 陸上划船拚速度！中市市長盃室內划船賽登場 250名學生選手齊聚大里高中競技：https://www.taichung.gov.tw/3403333/post
-- 2026-10-30 2026台中花毯節15週年盛大開箱！盧市長偕三麗鷗明星打造「甜點王國」創三大歷史之最：https://www.taichung.gov.tw/3403286/post
-- 2026-10-30 115年10月31日假日加開流感疫苗門診廠牌公告說明。：https://www.taichung.gov.tw/3403169/post
-- 2026-10-30 「116年臺中市視覺功能障礙者生活重建及生活訓練服務計畫」開始受理申請：https://www.society.taichung.gov.tw/3403194/post
-- 2026-10-30 公費雙疫苗第二階段11/2開打！邀鄉親顧健康、賺飽幣：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009751
-- 2026-10-30 「116年臺中市身心障礙者個人生活重建服務計畫」開始受理申請：https://www.society.taichung.gov.tw/3403176/post
-- 2026-10-30 「116年臺中市燒燙傷及顏面損傷者生活重建服務計畫」開始受理申請：https://www.society.taichung.gov.tw/3403188/post
-- 2026-10-30 第六救災救護大隊春社分隊火搶訓練- 項目快速脫困訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33094
-- 2026-10-30 招標資訊-【無法決標公告】臺中市豐原區豐西里多功能活動中心一樓委託經營管理：https://www.fengyuan.taichung.gov.tw/4085824/post
-- 2026-10-30 守護兒少運動安全！ 中市府辦理教練專業研習 攜手中央打造友善運動環境：https://www.taichung.gov.tw/3403131/post
-- 2026-10-30 台中第56處公托南屯文山托嬰中心開幕！精科園區增28個托育名額 助年輕家庭安心育兒：https://www.taichung.gov.tw/3403031/post
-- 2026-10-30 中市水患自主防災社區增至68處 南屯春社里加入防汛行列 1,750人攜手守護家園：https://www.taichung.gov.tw/3403090/post
-- 2026-10-30 行政處發包科-115年度眼科篩檢儀器採購案：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1095&sms=11693&s=1008934
-- 2026-10-30 行政處發包科-115年度苗栗縣揮發性有機物特徵及臭氧生成潛勢調查管制計畫後續擴充：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1009273
+- 2026-11-01 彰化縣115年樹木保護研習：https://www.chcg.gov.tw/ch2/education-training-view.aspx?edu_sno=5645
+- 2026-10-31 互助國小村校聯歡晚會熱鬧登場 許淑華與部落鄉親同樂：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au240000&cid=75&id=169246
+- 2026-10-31 第二救災救護大隊梨山分隊辦理體技能訓練 – 火搶訓練- 水源供應：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33122
+- 2026-10-31 第二救災救護大隊雙崎分隊辦理體技能訓練- 基礎體能與重量訓練項目：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33123
+- 2026-10-31 第二救災救護大隊和平分隊辦理體技能訓練－ 車輛器材及架梯操作：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33121
+- 2026-10-31 期盼20年終實現！「大肚和美橋」通車 盧市長兌現承諾：台中通彰化僅需3分鐘：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26193
+- 2026-10-31 萬聖狂歡嗨翻豐原！台中購物節首抽百萬汽車、北海道來回機票等大獎：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26192
+- 2026-10-31 紅粄祈福傳承百年香火！葫蘆墩三山國王民俗文化節萬順宮登場：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26189
+- 2026-10-31 Hello台中 花現新社！台中優質農產展現山城魅力：https://www.taichung.gov.tw/3403820/post
+- 2026-10-31 首屆「台中纖維藝術雙年展」盛大開幕！18位亞洲藝術家串起島嶼文化對話：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26185
+- 2026-10-31 中市金運獎表揚50名優良駕駛！ 余佳德服務梨山近40年獲終身貢獻獎：https://www.taichung.gov.tw/3403776/post
+- 2026-10-31 交通工務處-關切高鐵苗栗站轉乘銜接鍾東錦：持續爭取改善、兼顧便利與安全：https://www.miaoli.gov.tw/public_works/News_Content.aspx?n=586&s=1009773
+- 2026-10-31 仁德醫護管理專科學校創校59週年校慶 縣長肯定為台灣醫療培育第一線守護生命專業人員：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009783
+- 2026-10-31 115年育達廣亞盃暨台健盃全國健美健體公開賽：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009780
+- 2026-10-31 大西國中歡慶建校50週年，太陽能光電球場啟用打造綠能永續校園：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009778
+- 2026-10-31 大同高中通學步道改善工程啟用 打造安全友善通學環境 研議增設反光鏡強化接送安全：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009777
+- 2026-10-31 後龍鎮萬善祠表揚15位孝悌楷模 縣長鍾東錦讚揚獲獎學生是學習榜樣：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009776
+- 2026-10-31 佳昂公托揭牌暨萬聖嘉年華暨CRC兒童權利公約宣導：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009775
+- 2026-10-31 中市表揚職人新秀及技術傳承績優單位 63位獲獎者展現技藝成果：https://www.taichung.gov.tw/3403725/post
+- 2026-10-31 花毯節賞花趣！台中Go限時優惠套票11/2開跑效期內公車捷運坐免驚：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26173
+- 2026-10-31 「台中亮點券」登場 觀旅局邀民眾探索城市觀光魅力：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26175
+- 2026-10-31 薔琵颱風農損公告救助 農業局提醒農民11/13前申請：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26178
+- 2026-10-31 企業投資熱絡！台中「公司登記」、「實收資本額」成長率雙冠六都：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26176
+- 2026-10-31 第一救災救護大隊頭家厝分隊-強行進入、 救援器材操作訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33100
+- 2026-10-31 第一救災救護大隊豐原分隊-救護宣導- 陽明大樓擺攤：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33099
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
