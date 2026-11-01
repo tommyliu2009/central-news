@@ -4,36 +4,36 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-11-01（每日自動更新）
+- 更新：2026-11-02（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-02 中市府觀旅局邀日本網紅及媒體踩線 積極拓展日本國際觀光市場：https://travel.taichung.gov.tw/zh-tw/event/newsdetail/10450
+- 2026-11-02 2026新社花海暨台中國際花毯節開幕！三麗鷗七位明星齊聚「甜點王國」：https://travel.taichung.gov.tw/zh-tw/event/newsdetail/10449
+- 2026-11-02 2027南投燈會雙主燈設計、製作及展出案：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169232
 - 2026-11-01 彰化縣115年樹木保護研習：https://www.chcg.gov.tw/ch2/education-training-view.aspx?edu_sno=5645
+- 2026-11-01 召開租佃委員會調解租佃爭議!：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au150000&cid=178&id=169249
+- 2026-11-01 竹南分隊協助民眾取下卡住戒指 細心處置守護民眾安全：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009784
+- 2026-11-01 銅鑼灣1895文化生活四週年館慶 賴副縣長感謝館方致力保存在地客家歷史記憶：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009796
+- 2026-11-01 苑裡房裡順天宮防災宣導：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009781
+- 2026-11-01 苗栗市中正路麵店火災：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009787
+- 2026-11-01 2026苗栗國際陶瓷競賽展揭曉得獎名單 陶藝術節開幕邀民眾共賞國際陶藝：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009782
+- 2026-11-01 全國環保志（義）工齊聚苗栗 群英競技展活力：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009785
+- 2026-11-01 夢想起飛！ 台中成年禮化身青春航班 父親首度勇敢說愛暖人心：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26201
+- 2026-11-01 以棋會友、智慧交鋒！台中市長盃圍棋錦標賽840人對弈 5歲至65歲棋士同場競技：https://www.taichung.gov.tw/3404202/post
+- 2026-11-01 SUPER教師表揚大會 縣長頒獎肯定：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009794
+- 2026-11-01 南投健行節「永祿客韻」熱鬧登場 漫步中寮山林感受客家文化魅力：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au240000&cid=75&id=169247
+- 2026-11-01 守護原鄉孩子 互助國小風災後跑道迎新生：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au240000&cid=75&id=169248
+- 2026-11-01 第五救災救護大隊外埔分隊體技能訓練- 水帶部署滅火行動：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33132
+- 2026-11-01 中捷化身「最強校車」 ！九德、文華高中站增設排隊線 候車動線更順暢：https://www.taichung.gov.tw/3404177/post
+- 2026-11-01 苗栗公寓大廈法令說明會 鍾東錦：健全管理、安心宜居：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009789
+- 2026-11-01 台中購物節國際交流再升級！首度走訪五國代表處抽機票 11/3首抽釜山來回機票2張：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26198
+- 2026-11-01 【快報】豐原戶政115年11月號電子報：https://www.taichung.gov.tw/3404151/post
+- 2026-11-01 台中轉運中心將啟用！國道客運、台灣好行11/5進駐 打造七接七轉新樞紐：https://www.taichung.gov.tw/3404137/post
 - 2026-10-31 互助國小村校聯歡晚會熱鬧登場 許淑華與部落鄉親同樂：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au240000&cid=75&id=169246
 - 2026-10-31 第二救災救護大隊梨山分隊辦理體技能訓練 – 火搶訓練- 水源供應：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33122
 - 2026-10-31 第二救災救護大隊雙崎分隊辦理體技能訓練- 基礎體能與重量訓練項目：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33123
-- 2026-10-31 第二救災救護大隊和平分隊辦理體技能訓練－ 車輛器材及架梯操作：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33121
-- 2026-10-31 期盼20年終實現！「大肚和美橋」通車 盧市長兌現承諾：台中通彰化僅需3分鐘：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26193
-- 2026-10-31 萬聖狂歡嗨翻豐原！台中購物節首抽百萬汽車、北海道來回機票等大獎：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26192
-- 2026-10-31 紅粄祈福傳承百年香火！葫蘆墩三山國王民俗文化節萬順宮登場：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26189
-- 2026-10-31 Hello台中 花現新社！台中優質農產展現山城魅力：https://www.taichung.gov.tw/3403820/post
-- 2026-10-31 首屆「台中纖維藝術雙年展」盛大開幕！18位亞洲藝術家串起島嶼文化對話：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26185
-- 2026-10-31 中市金運獎表揚50名優良駕駛！ 余佳德服務梨山近40年獲終身貢獻獎：https://www.taichung.gov.tw/3403776/post
-- 2026-10-31 交通工務處-關切高鐵苗栗站轉乘銜接鍾東錦：持續爭取改善、兼顧便利與安全：https://www.miaoli.gov.tw/public_works/News_Content.aspx?n=586&s=1009773
-- 2026-10-31 仁德醫護管理專科學校創校59週年校慶 縣長肯定為台灣醫療培育第一線守護生命專業人員：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009783
-- 2026-10-31 115年育達廣亞盃暨台健盃全國健美健體公開賽：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009780
-- 2026-10-31 大西國中歡慶建校50週年，太陽能光電球場啟用打造綠能永續校園：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009778
-- 2026-10-31 大同高中通學步道改善工程啟用 打造安全友善通學環境 研議增設反光鏡強化接送安全：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009777
-- 2026-10-31 後龍鎮萬善祠表揚15位孝悌楷模 縣長鍾東錦讚揚獲獎學生是學習榜樣：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009776
-- 2026-10-31 佳昂公托揭牌暨萬聖嘉年華暨CRC兒童權利公約宣導：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1009775
-- 2026-10-31 中市表揚職人新秀及技術傳承績優單位 63位獲獎者展現技藝成果：https://www.taichung.gov.tw/3403725/post
-- 2026-10-31 花毯節賞花趣！台中Go限時優惠套票11/2開跑效期內公車捷運坐免驚：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26173
-- 2026-10-31 「台中亮點券」登場 觀旅局邀民眾探索城市觀光魅力：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26175
-- 2026-10-31 薔琵颱風農損公告救助 農業局提醒農民11/13前申請：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26178
-- 2026-10-31 企業投資熱絡！台中「公司登記」、「實收資本額」成長率雙冠六都：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26176
-- 2026-10-31 第一救災救護大隊頭家厝分隊-強行進入、 救援器材操作訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33100
-- 2026-10-31 第一救災救護大隊豐原分隊-救護宣導- 陽明大樓擺攤：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33099
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
