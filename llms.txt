@@ -4,36 +4,36 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-11-04（每日自動更新）
+- 更新：2026-11-05（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-05 115名間鄉番子寮溪排水支線(看天橋上游)護岸改善工程：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169300
+- 2026-11-05 南投縣政府 採購中心 - 112年度南投縣政府縣政大樓B及C棟4樓整建工程(後續工程)：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169302
+- 2026-11-05 2027南投清境跨年晚會活動勞務採購案：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169304
 - 2026-11-04 行政處發包科-三灣鄉苗18線0K+700段道路復建工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1093&sms=11691&s=1010196
 - 2026-11-04 115埔里鎮枇杷里中心路護欄工程等4件：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169295
 - 2026-11-04 115鹿谷鄉投55線7.8K至8.5K處路面改善工程：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169294
-- 2026-11-03 全島最高媽祖雕像串起海線觀光！第六屆觀光委員擘劃新藍圖：https://travel.taichung.gov.tw/zh-tw/event/newsdetail/10451
-- 2026-11-03 南投縣第20屆縣長宣誓就職典禮：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169255
-- 2026-11-03 花毯節搭車賞花優惠開跑！台中Go套票11/2起限量5折 公車、捷運效期內不限次數：https://travel.taichung.gov.tw/zh-tw/event/newsdetail/10453
-- 2026-11-03 2026新社花海暨臺中國際花毯節 活動交通管制資訊：https://travel.taichung.gov.tw/zh-tw/event/newsdetail/10454
-- 2026-11-03 公開展覽本府辦理本縣國姓鄉國姓段62-6地號等15地段274筆非都市土地分區檢討變更案之土地使用分區編定圖、土地使用編定清冊。：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au150000&cid=178&id=169288
-- 2026-11-03 中市暴力犯罪破獲率100%！盧市長：感謝警察同仁守護市民安全 持續投入資源打造幸福城市：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26238
-- 2026-11-03 115年11月臺中市統計通報「建物所有權移轉登記」發布囉!：https://www.dbas.taichung.gov.tw/3406061/post
-- 2026-11-03 關注東興淨水廠自來水水質 促尋求備援引水及汰管建立供水韌性：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1010521
-- 2026-11-03 臺中市政府環境保護局：https://recycle.epb.taichung.gov.tw/news/news_01_1.asp?id=4736
-- 2026-11-03 第一救災救護大隊葫蘆墩高救隊-救護訓練- 情境模擬訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33176
-- 2026-11-03 116年300億元中央擴大租金補貼專案計畫受理申請公告：https://www.south.taichung.gov.tw/4088832/post
-- 2026-11-03 115年度員林段轄區隔音牆設置工程(開口契約)：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,21,,,,21885
-- 2026-11-03 停車管理處網站服務於115年11月4日15:30-16:30暫停提供服務：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,21,,,,21884
-- 2026-11-03 第六救災救護大隊黎明分隊-分隊訓練- 救護訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33175
-- 2026-11-03 第六救災救護大隊黎明分隊-防火宣導- 用火安全暨爆竹煙火安全宣導：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33173
-- 2026-11-03 第一救災救護大隊大雅分隊-防災宣導- 台灣櫻花公司宣導：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33174
-- 2026-11-03 第一救災救護大隊豐原分隊-體技能訓練- 人命搜救情境訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33172
-- 2026-11-03 轉知-原住民族語言研究發展基金會辦理「Ma’araw 原住民族語言短影音創作獎勵計畫」並鼓勵踴躍報名參加：https://cipa.miaoli.gov.tw/News_Content.aspx?n=2353&sms=10257&s=1010179
-- 2026-11-03 彰化南投最會買、新竹縣最敢買！中市經發局推購物節10天磁吸35.9億元 外縣市貢獻5.8億元：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26237
-- 2026-11-03 新聞稿專區-秋遊東勢享好湯! 10/17「森湯音樂會」壓軸登場：https://www.tourism.taichung.gov.tw/3385625/post
-- 2026-11-03 【宣傳公告】本所「愛運動無礙」推廣中心試營運：https://www.wufeng.taichung.gov.tw/4088498/post
-- 2026-11-03 客家委員會「客家幣2.0校園獎勵計畫」雙軌並行申領 明年3月開放個人申請：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=251&id=169279
+- 2026-11-04 大成化學工業股份有限公司製造販售之「大利多」(納得亞滅寧)13.500%乳劑，違反農藥管理法第8條第1款及第3款並依同法第50條及第51條規定裁處新臺幣6萬元罰鍰：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au140000&cid1=726,3552&id=169308
+- 2026-11-04 彰化公園好玩美，13處集章任務開跑！ 🌳🛝：https://tourism.chcg.gov.tw/NewsContent.aspx?id=5438&chk=e3eb4887-ff63-4288-b271-f6d817a8844e&l=TW
+- 2026-11-04 「大興飛行樂園」啟用 打造飛行探索體驗共融遊戲場：https://tourism.chcg.gov.tw/NewsContent.aspx?id=5437&chk=99f253f3-9831-4b26-b0d9-06896172ef8e&l=TW
+- 2026-11-04 台中購物節帶你飛出國！前進日南觀光夜市抽機票：https://www.taichung.gov.tw/3407199/post
+- 2026-11-04 縣長鍾東錦視察石棉建材熱處理成效 肯定一年幫苗栗完成300公噸的去化量：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1011016
+- 2026-11-04 中捷藍線軌道工程簽約 啟動全線設計介面整合作業：https://www.taichung.gov.tw/3407122/post
+- 2026-11-04 南投高球小將簡堃祐勇奪雙料世界亞軍 許縣長表揚接見：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169310
+- 2026-11-04 扶輪社捐贈大倫國中教學設備 助體育學子兼顧訓練與學習：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1011008
+- 2026-11-04 行政處發包科-苗栗縣西湖國中運動場地整建工程採購案：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1095&sms=11693&s=1010385
+- 2026-11-04 行政處發包科-115年苗栗縣政府LINE帳號管理委託專業服務案-第一次契約變更：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1010970
+- 2026-11-04 行政處發包科-2027台灣燈會-租賃貨櫃式流動廁所採購案：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1010502
+- 2026-11-04 行政處發包科-三灣鄉大坪村石爺廟旁野溪災害復建工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1010519
+- 2026-11-04 行政處發包科-泰安鄉苗62線9K+463段道路復建工程：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1094&sms=11692&s=1010485
+- 2026-11-04 行政處發包科-南湖國中115年度運動場地整建工程採購案：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1095&sms=11693&s=1010352
+- 2026-11-04 藥師專業把關 破解「三同藥品」迷思與合法替代：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169309
+- 2026-11-04 苗縣社區發展成果卓越 4社區中央選拔獲獎：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1010953
+- 2026-11-04 活動相簿-115年10月30日 ATTA臺中國際旅展：https://www.economic.taichung.gov.tw/3406980/post
+- 2026-11-04 台中工廠登記突破2萬家居全台第一！中市經發局力促產業轉型升級 帶動就業與稅收成長：https://www.taichung.gov.tw/3406902/post
+- 2026-11-04 建構安全校園支援網絡 中市召開115年學生校外生活輔導會議：https://www.taichung.gov.tw/3406933/post
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
