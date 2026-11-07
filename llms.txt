@@ -4,36 +4,36 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-11-07（每日自動更新）
+- 更新：2026-11-08（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-11-07 「行政院核定西拉雅族為平埔原住民族群，並自115年8月13日起受理西拉雅族民族成員名冊登記」公告及申請方式：https://siluohousehold.yunlin.gov.tw/News_Content.aspx?n=30733&s=602787
-- 2026-11-06 現有都市計畫地理資訊系統改版及設備更新案：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169323
-- 2026-11-06 2027南投燈會-小提燈設計及製作勞務採購案：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169324
-- 2026-11-06 農業處-苗栗縣竹林生產更新獎勵計畫宣導座談會暨DIY活動（銅鑼場）：https://www.miaoli.gov.tw/agriculture/News_Content.aspx?n=633&sms=9582&s=1012370
-- 2026-11-06 「苗栗2026風箏文化暨客家美食節」11/6晚間璀璨登場：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012377
-- 2026-11-06 互贈枇杷膏護嗓！盧市長探班玖壹壹大啖美食 「南北貳路音樂節」週末嗨翻水湳：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26301
-- 2026-11-06 逾百人齊聚台中！鋼結構協會年會聚焦工程創新與橋梁建設：https://www.taichung.gov.tw/3408944/post
-- 2026-11-06 第六救災救護大隊協和分隊-車輛裝備器材操作： 電動破壞器材：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33201
-- 2026-11-06 第六救災救護大隊協和分隊-SCBA 空氣呼吸器緊急處置及故障排除：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33200
-- 2026-11-06 竹竹苗園縣市高峰會第15次會議登場 鍾東錦倡議企業長照友善通道：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012376
-- 2026-11-06 第八救災救護大隊四平分隊-救護流程:頭部創傷(剷式擔架)、穿刺傷及政令宣達: 緊急醫療救護職業安全：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33199
-- 2026-11-06 第八救災救護大隊東山分隊- 技能訓練- 衛星電話測試及無線電訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33196
-- 2026-11-06 第八救災救護大隊四平分隊-火搶訓練-空氣呼吸器:組裝穿戴、直線穿越、SCBA 消耗測試：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33198
-- 2026-11-06 第八救災救護大隊東山分隊- 救護訓練-頭部創傷、穿刺傷訓練。：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33197
-- 2026-11-06 第八救災救護大隊文昌分隊- 文心國小救護防災宣導：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33194
-- 2026-11-06 第八救災救護大隊文昌分隊- 火場入室安全管制輔助系統操：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33195
-- 2026-11-06 第八救災救護大隊北屯分隊- 防災宣導：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33193
-- 2026-11-06 第八救災救護大隊北屯分隊救護訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33192
-- 2026-11-06 第八救災救護大隊水湳分隊 -技能訓練- 衛星電話及無線電測試訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33191
-- 2026-11-06 第八救災救護大隊水湳分隊-救護訓練-頭部創傷（剷式擔架）、穿刺傷及政令宣導： 緊急醫療救護職業安全：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33190
-- 2026-11-06 台中市總工業會工業節表揚121家績優廠商 市府與產業共創智慧製造新時代：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26297
-- 2026-11-06 中央地方攜手建構防災網！中市府展多元救災量能守護民眾安全：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26299
-- 2026-11-06 10月營造物價指數較上月上漲0.11% 較上年同月上漲10.61%：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26298
-- 2026-11-06 翻轉傳統市場印象！台中大進市場打造「一日兩市」夜間新風貌：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26296
-- 2026-11-06 行政處發包科-苗栗縣立三義高中校園周邊道路改善計畫：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1093&sms=11691&s=1012229
+- 2026-11-07 人寵同遊共享幸福時光 來蹓蹓市集一起「HAPPY TOGETHER」!：https://www.taichung.gov.tw/3409377/post
+- 2026-11-07 秋冬養生中醫經絡，青銀共學溫暖過冬：https://lib.miaoli.gov.tw/wSite/ct?xItem=23757&ctNode=227&mp=1
+- 2026-11-07 2026大里場石虎家族見面會叫好叫座！與市民約定12/6大甲再聚：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26325
+- 2026-11-07 屏東縣政府為辦理115年地方公職人員選舉暨全國性公民投票案，該縣各戶政事務所於選舉名冊編造作業期間及投票日，停止週六延長上班及假日預約結婚登記：https://siluohousehold.yunlin.gov.tw/News_Content.aspx?n=18364&s=608306
+- 2026-11-07 寵物同遊共享幸福時光 中市動保處舉辦蹓蹓市集推廣友善動物理念：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26324
+- 2026-11-07 【頭屋鄉立圖書館】寶寶故事屋：https://lib.miaoli.gov.tw/wSite/ct?xItem=23758&ctNode=294&mp=1
+- 2026-11-07 台中雙金農村誓師出征！「流域共好‧中苗金讚」跨域成果展現農村再生新動能：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26321
+- 2026-11-07 台中購物節連兩年攜手日本城市！ 駒根市長伊藤祐三現身「長野日」 抽東京機票、十萬元現金：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26323
+- 2026-11-07 苗栗舉辦山城盃國際青少年足球邀請賽 縣長：應多邀請足球發展興盛的國家選手參賽讓台灣足球發光發亮：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1012386
+- 2026-11-07 「好禮購 BUY 節」台中市民廣場熱鬧登場 伴手禮市集結合消防闖關吸引親子同樂：https://www.taichung.gov.tw/3409204/post
+- 2026-11-07 【愛閱讀・識文化｜翻開一本書，遇見世界的美好！】：https://lib.miaoli.gov.tw/wSite/ct?xItem=23754&ctNode=227&mp=1
+- 2026-11-07 桃竹苗銀齡人才職涯拓展 中高齡「銀JOIN未來．職涯亮起來」：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012384
+- 2026-11-07 竹南鎮舉辦幼兒親子運動會 縣長宣布：將興建「竹南親子館暨托嬰中心」：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012385
+- 2026-11-07 打造卓越臨床試驗中心與跨領域研究重鎮市府張副秘出席見證台中榮總醫學科技大樓今盛大動土：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26318
+- 2026-11-07 探索AI時代教育新方向 2026台中EDU-BUFFET課程博覽會盛大登場：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26319
+- 2026-11-07 南投8社團客家歌謠展成果 表揚8處績優伯公照護站：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au240000&cid=75&id=169349
+- 2026-11-07 2026梧棲饗米季熱鬧登場！ 千人健走、青農展售 共賞在地農業魅力：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26317
+- 2026-11-07 台中亞帕運勇奪3金！市府辦凱旋表揚餐會 致敬選手與幕後英雄：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26315
+- 2026-11-07 大台中企業志工日大會師 社會局與拓凱教育基金會共同實踐ESG永續發展：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26316
+- 2026-11-07 市區也能看見珍稀原生植物！中市建設局11月試辦中央公園「苗圃」環境教育服務：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26312
+- 2026-11-07 搶先跑進東豐快！近5,000名跑者齊聚山城 見證交通建設新里程碑：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26314
+- 2026-11-07 台中「社造萬象館」今登場！邀你探社區、品文化 看見中市社造多元成果：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26313
+- 2026-11-07 第四救災救護大隊龍井分隊- 砲塔車操作訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33208
+- 2026-11-07 第四救災救護大隊清泉分隊-防火防災宣導- 吳厝里活動中心：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33206
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
