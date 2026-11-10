@@ -4,36 +4,36 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-11-10（每日自動更新）
+- 更新：2026-11-11（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-11-10 工商發展處-減輕房貸負擔、守護安心家園！苗栗縣115年度住宅補貼審查馬不停蹄：https://www.miaoli.gov.tw/economic_development/News_Content.aspx?n=1028&s=1012667
-- 2026-11-09 115名間鄉仁和村坑內巷路面改善工程：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169342
-- 2026-11-09 廬山風景特定區計畫地質敏感區安全監測及智慧調查評估委託技術服務案：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169344
-- 2026-11-09 伴手禮重現溫情！第15屆亞特盃運動會台中登場 工策會攜手陳允寶泉贈450份太陽餅傳遞善能量：https://www.taichung.gov.tw/3410195/post
-- 2026-11-09 「週週住台中 度假一整年」第二波抽獎名單出爐！12月壓軸送「52張住宿券」：https://www.tourism.taichung.gov.tw/3410409/post
-- 2026-11-09 交通工務處-苗栗縣YouBike2.0「頭屋藝文廣場」站115年11月10日啟用，便利鄉親通勤通學與遊客低碳漫遊：https://www.miaoli.gov.tw/public_works/News_Content.aspx?n=586&s=1012420
-- 2026-11-09 「謝謝中市府三年照顧」玖壹壹壓軸感性告白 南北貳路音樂節逾10萬人次大合唱：https://www.taichung.gov.tw/3410323/post
-- 2026-11-09 小額消費中獎不是夢！台中購物節登錄破62億 霧峰民眾花260元抱走10萬：https://www.taichung.gov.tw/3410207/post
-- 2026-11-09 第三救災救護大隊霧峰分隊-火搶訓練-SCBA 空氣消耗測試：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33242
-- 2026-11-09 「不倒騎士」單車環台抵達台中 衛生局長熱情迎接、號召落實癌篩：https://www.taichung.gov.tw/3410159/post
-- 2026-11-09 苗栗縣單身聯誼活動配對率5成 賴副縣長頒發縣府同仁獎勵金：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012655
-- 2026-11-09 第六救災救護大隊黎明分隊-自衛消防編組演練-「台中大學眼科診所」：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33222
-- 2026-11-09 縣政成果獲肯定 縣長許淑華感謝同仁、要求年度計畫如期完成：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au240000&cid=75&id=169359
-- 2026-11-09 提倡使用可透視垃圾袋 落實垃圾分類守護清潔隊員收運安全：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1012629
-- 2026-11-09 造橋老人文康中心落成啟用 縣長允諾增加設施成為長輩聊天聚會的好所在：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1012624
-- 2026-11-09 串聯水湳重大建設！盧市長：斥資6億打造立體通廊 兼顧行人安全與城市美學：https://www.taichung.gov.tw/3410002/post
-- 2026-11-09 幸福職場「友栗獎」表揚31企業 營造友善職場帶給企業利多無限：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012591
-- 2026-11-09 環境技術認證新制上路 3階段認證讓整治技術更透明！：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012535
-- 2026-11-09 帶頭示範綠色除草！非農地雜草禁用除草劑改採電動割草維護生態：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012534
-- 2026-11-09 居家訪視消防安全宣導：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012399
-- 2026-11-09 和情緒共處 提升教保服務人員自我照顧與親師溝通知能：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012416
-- 2026-11-09 特搜分隊協助義消特種搜救訓練 強化繩索救援專業技能：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012404
-- 2026-11-09 農地興建農業資材室 即使免建照仍需設立房屋稅籍：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012537
-- 2026-11-09 苗栗縣訂定家戶水污費收費辦法 環境更升級：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012475
-- 2026-11-09 苗栗環保局舉辦畜牧廢水資源化說明會 攜手業者推動綠色循環：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1012539
+- 2026-11-10 雲林縣公車動態系統-安裝：https://ebus.yunlin.gov.tw/ibusWeb/Addwebpage/auto
+- 2026-11-10 保障外籍人士租屋權益！內政部推出住宅租賃相關契約書印尼文、越南文官方譯本：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au150000&cid=178&id=169387
+- 2026-11-10 虎尾警政新據點動土 6.22億元打造三合一警政廳舍：https://ylhpb.yunlin.gov.tw/News_Content.aspx?n=31001&s=613561
+- 2026-11-10 中市府出席第80屆工業節大會 黃副市長：肯定企業深耕 帶動台中經濟佳績：https://www.taichung.gov.tw/3411234/post
+- 2026-11-10 秋冬傳染病防疫不鬆懈！衛生局籲接種M痘及流感疫苗、落實防蚊措施 守護市民健康：https://www.taichung.gov.tw/3411099/post
+- 2026-11-10 行政處發包科-2027台灣燈會-燈區流動廁所整體規劃設計、施作及設備維運服務案：https://www.miaoli.gov.tw/bidding/News_Content.aspx?n=1093&s=1005838
+- 2026-11-10 南投縣政府文化局辦理「115年性平電影導讀及講座」活動，於12月5日(六)下午2點播映「麵包情人」，歡迎您前來欣賞。：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=253&id=169381
+- 2026-11-10 運動觀光見成效！ 日本田中先生、小姐熱情響應 再度來訪彰化：https://tourism.chcg.gov.tw/NewsContent.aspx?id=5439&chk=19763a0c-0863-40de-8666-2516e07d8d59&l=TW
+- 2026-11-10 國際教育活動-美栗山腳-相約在苗栗：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1012889
+- 2026-11-10 115年濟公會復康巴士捐贈儀式：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1012705
+- 2026-11-10 中市外埔消防分隊遷建今動土 鄭副市長：兌現守護市民安全承諾：https://www.taichung.gov.tw/3411042/post
+- 2026-11-10 116年度臺中市交通行動服務(MaaS)平台營運委託專業服務案招標了，詳情請至行政院工程會政府電子採購網查尋：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,25,,,,21913,,,,10,,,,,t,0
+- 2026-11-10 不只愛美食！台中購物節小資女消費破5.9億元揭曉三大類人氣TOP 3店家「洪瑞珍、寶島鐘錶、原價屋」：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26350
+- 2026-11-10 縣府慰勞教育召集後備軍人 致贈加菜金感謝守護國家辛勞：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au240000&cid=75&id=169374
+- 2026-11-10 中市4單位、3人獲職安優良獎項肯定 盧市長頒獎表揚：https://www.taichung.gov.tw/3410987/post
+- 2026-11-10 通霄鎮烏眉社區活動中心落成 縣長揭牌啟用：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1013049
+- 2026-11-10 中市府衛生業務考評連5年六都冠軍 盧市長肯定同仁務實創新守護市民：https://www.taichung.gov.tw/3410850/post
+- 2026-11-10 銅鑼杭菊芋頭節周末登場 縣長鍾東錦邀請國人來賞花吃美食體驗客家風情：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1013111
+- 2026-11-10 最新動向-搭台中好行喝黑沃！咖啡免費送冬遊再加碼抽好禮：https://tcpass.taichung.gov.tw/latest-trend/view/82995915-f9e8-4d80-817f-93d804676d14
+- 2026-11-10 搭台中好行喝黑沃！咖啡免費送冬遊再加碼抽好禮：https://www.tourism.taichung.gov.tw/3410903/post
+- 2026-11-10 台中「空氣不良日」8年改善85%！盧市長兌現空污改善承諾：https://www.taichung.gov.tw/3410830/post
+- 2026-11-10 公告本市豐原區豐南段447-1地號等8筆（5標）市有非公用土地招標設定地上權案，請踴躍參加投標。：https://www.taichung.gov.tw/3410779/post
+- 2026-11-10 獅潭消防分隊新廳舍落成啟用 提升山城消防量能 守護鄉親生命財產安全：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1012960
+- 2026-11-10 減輕房貸負擔、守護安心家園！苗栗縣115年度住宅補貼審查馬不停蹄：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1012667
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
