@@ -4,36 +4,36 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-11-14（每日自動更新）
+- 更新：2026-11-15（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-11-14 香火傳承逾兩世紀！ 烏日順天宮迎重建安座25週年 盧市長贈匾「護國佑民」感謝守護鄉里：https://www.taichung.gov.tw/3413639/post
-- 2026-11-13 「2027南投燈會品牌燈區及副燈設計、製作及展出案」：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169415
-- 2026-11-13 冠軍前進日本高松！ 第51屆中正盃全國軟網賽熱血登場 近千小將齊聚台中爭霸：https://www.taichung.gov.tw/3412795/post
-- 2026-11-13 [標案案號11561]社頭鄉116年交通安全設施開口契約(第1次上網公告)：https://www.chcg.gov.tw/TSO/shetou/04bulletin/bulletin02_con.aspx?bull_id=441285
-- 2026-11-13 交通工務處-苗栗縣勇奪道安金安獎雙獎！：https://www.miaoli.gov.tw/public_works/News_Content.aspx?n=586&s=1014880
-- 2026-11-13 守護市民如家人！盧市長主持任內最終場食安會報 盼幸福城市延續：https://www.taichung.gov.tw/3413628/post
-- 2026-11-13 第六救災救護大隊工業區分隊-火搶訓練- 空氣呼吸器及無線電操作訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33266
-- 2026-11-13 第六救災救護大隊工業區分隊-火搶訓練- 中國化學製藥公司：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33265
-- 2026-11-13 深化台法友好情誼！法國在台協會主任龐維德拜會中市府 盧市長：持續拓展多元城市交流：https://www.taichung.gov.tw/3413603/post
-- 2026-11-13 三光苗圃三十載 悅讀躍思創未來：https://www.taichung.gov.tw/3413331/post
-- 2026-11-13 深耕美感體驗教育！台中市中山堂「藝起玩劇場」 帶領青年學子深度體驗國際共創藝術：https://www.taichung.gov.tw/3413478/post
-- 2026-11-13 查核、演練雙管齊下！中市強化天然氣及自助洗衣店安全管理 守護市民安全：https://www.taichung.gov.tw/3413506/post
-- 2026-11-13 梨山遇見好茶-梨山茶參加2026台灣國際茶業博覽會 攜手優質茶農拓展行銷通路：https://www.taichung.gov.tw/3413460/post
-- 2026-11-13 第一救災救護大隊葫蘆墩高救隊-救護訓練- 穿刺傷固定與案例討論：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33264
-- 2026-11-13 第一救災救護大隊神岡分隊-火搶訓練- 救災機器人操作：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33263
-- 2026-11-13 中市5社區榮獲衛福部金卓越獎 展現在地互助共好力量：https://www.taichung.gov.tw/3413424/post
-- 2026-11-13 長輩走出機構樂遊綠美圖 中市自立支援讓照顧融入生活：https://www.taichung.gov.tw/3413436/post
-- 2026-11-13 盧市長關懷台中AI供應鏈 經發局：長單合作關係穩固 主要企業營運穩定：https://www.taichung.gov.tw/3413412/post
-- 2026-11-13 台中製造業展現強勁韌性 中市府深化淨零輔導助產業低碳轉型：https://www.taichung.gov.tw/3413446/post
-- 2026-11-13 台中南興光電籃球場今啟用 840.8瓩光電裝置容量創全市公有籃球場新高：https://www.taichung.gov.tw/3413410/post
-- 2026-11-13 行政處-南庄田美永和宮修復工程邱副縣長開工啟動：https://www.miaoli.gov.tw/general_affairs/News_Content.aspx?n=851&sms=9702&s=1014878
-- 2026-11-13 苗栗市農會「多功能推廣教育中心」暨「貓裏米食烘焙坊」揭牌啟用：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014925
-- 2026-11-13 中市府推動特定工廠碳管理與智慧轉型 11/17起輔導說明會及三日實務課程接力登場：https://www.taichung.gov.tw/3413017/post
-- 2026-11-13 山林地景融合客家新美學 中市新社圖書館全新亮相啟用：https://www.taichung.gov.tw/3413311/post
-- 2026-11-13 2026苗栗耶誕城宣傳短片：https://www.miaoli.gov.tw/News_Video_Content.aspx?n=4590&sms=11514&s=1014917
+- 2026-11-14 Nantou County Government - 2027南投燈會情人橋及燈會周邊道路維護(開口契約)：https://www.nantou.gov.tw/english/caseboard_detail.php?dptid=376480000&cid1=1186&cid=388&id=168887
+- 2026-11-14 中臺灣區域治理平台首長會議新竹登場 王副縣長行銷茶博會：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au210000&cid=1037&id=168835
+- 2026-11-14 備戰全國工業技藝競賽！中市2026第五屆鬼斧神工技能實作競賽隆重登場：https://www.taichung.gov.tw/3413921/post
+- 2026-11-14 從耆老吟唱到學子說族語！中市原民會串起跨世代文化傳承：https://www.taichung.gov.tw/3413910/post
+- 2026-11-14 青春就是這YOUNG！台中青少年成果展秀出社團培力豐碩成果：https://www.taichung.gov.tw/3413789/post
+- 2026-11-14 深化青年國際視野！2026台中市青年模擬聯合國於東海大學盛大開幕：https://www.taichung.gov.tw/3413730/post
+- 2026-11-14 走進「小仙山」感受藝術靜謐之美 朱友意油畫個展大墩文化中心登場：https://www.taichung.gov.tw/3413800/post
+- 2026-11-14 第四救災救護大隊-清泉分隊-救護訓練- 止血帶使用時機及要領：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33275
+- 2026-11-14 第四救災救護大隊沙鹿分隊-辦理體技能訓練- 救災安全管制板：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33273
+- 2026-11-14 為生活添一點甜 苗栗縣家庭照顧者喘息之旅溫馨登場：https://longcare.miaoli.gov.tw/News_Content.aspx?n=2313&sms=10234&s=1014726
+- 2026-11-14 心共融 身無限！中市國際身心障礙者日嘉年華共創平權未來：https://www.taichung.gov.tw/3413780/post
+- 2026-11-14 全家做伙講台語！南投「山城厝內講台語」278場共學成果熱鬧登場：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid1=253&cid=1073&id=169464
+- 2026-11-14 通霄鎮南和、坪頂、城中國小及南和國中4校舉辦聯合運動會：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1014937
+- 2026-11-14 全國最大芋頭產區在台中！「芋見美食休閒大甲」登場 串聯青農市集與農遊體驗：https://www.taichung.gov.tw/3413749/post
+- 2026-11-14 台中「椪柑王」出爐！台中市優質椪柑評鑑暨柑柑好趣野餐今登場：https://www.taichung.gov.tw/3413762/post
+- 2026-11-14 苗栗通苑區公托機構舉辦聯合親子活動 縣長：明年起將擴大在北、中、南區各辦2場次：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1014934
+- 2026-11-14 凝聚族人力量 延續文化記憶 「巴宰族傳統過新年活動」熱力登場：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1014933
+- 2026-11-14 苑裡北堤東路車禍：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1014930
+- 2026-11-14 破百隊伍齊聚台中沙鹿！第26屆總統盃空手道錦標賽熱血開戰：https://www.taichung.gov.tw/3413721/post
+- 2026-11-14 菊祥如芋 2026苗栗銅鑼杭菊芋頭節14、15日登場：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1014932
+- 2026-11-14 Nantou County Government - 116濁水溪下坪段疏濬作業-收入部分：https://www.nantou.gov.tw/english/caseboard_detail.php?dptid=376480000&cid1=1186&cid=388&id=169112
+- 2026-11-14 11歲到90歲都能揮桿！首屆台中城市盃地面高爾夫全國賽熱鬧登場：https://www.taichung.gov.tw/3413709/post
+- 2026-11-14 頭份市農會辦理食農教育推廣活動 親子共學體驗農村生活深化惜食觀念：https://www.miaoli.gov.tw/News_Content2.aspx?n=285&sms=9462&s=1014931
+- 2026-11-14 台中「給孩子一個禮堂」逐步圓夢！鹿陽國小雙喜臨門 歡慶校慶暨活動中心啟用：https://www.taichung.gov.tw/3413697/post
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
