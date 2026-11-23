@@ -4,36 +4,36 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-11-23（每日自動更新）
+- 更新：2026-11-24（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-22 南投縣政府無人飛行載具影像後處理系統採購案：https://www.nantou.gov.tw/big5/news_print.php?dptid=376480000&cid=1186&id=169511
-- 2026-11-22 開發總銷上看229億！中捷市府站開發案動工 盧市長：打造43層大樓新地標：https://www.taichung.gov.tw/3417462/post
-- 2026-11-22 強化舊城區急救量能！「中區救護義消分隊」正式成軍：https://www.taichung.gov.tw/3417471/post
-- 2026-11-22 南投縣雨水下水道智慧監測系統精進及決策輔助系統研擬建置計畫技術服務工作(第一期)：https://www.nantou.gov.tw/big5/news_print.php?dptid=376480000&cid=1186&id=169527
-- 2026-11-22 南投縣施政成果平台建置案：https://www.nantou.gov.tw/big5/news_print.php?dptid=376480000&cid=1186&id=169525
-- 2026-11-22 守護市民健康30載！中市醫事放射師公會表揚資深放射師 肯定專業奉獻：https://www.taichung.gov.tw/3417343/post
-- 2026-11-22 台中北屯全新足球場啟用！首屆同榮盃13支隊伍、逾百名選手熱血開踢：https://www.taichung.gov.tw/3417337/post
-- 2026-11-22 展現康復不設限！中市心光燦爛嘉年華熱鬧登場：https://www.taichung.gov.tw/3417324/post
-- 2026-11-22 陪孩子圓棒球夢！中市和平區自達線駕駛林美君獲金運獎 偏鄉最暖靠山：https://www.taichung.gov.tw/3417315/post
-- 2026-11-22 韓國人氣線條小狗萌翻台中！270公分巨型氣偶吸睛 逾6,000人歡樂路跑：https://www.taichung.gov.tw/3417278/post
-- 2026-11-22 木作牽起幸福緣分！中市府公教單身聯誼成功配對9對：https://www.taichung.gov.tw/3417265/post
-- 2026-11-22 百年老診所華麗轉身！「1035 Collab」勇奪2026 ADA新銳建築獎首獎：https://www.taichung.gov.tw/3417253/post
-- 2026-11-22 告別市場酷暑！市府斥資2,500萬元 大甲第二市場升級台中首座中央空調傳統公有市場：https://www.taichung.gov.tw/3417221/post
-- 2026-11-21 雙百萬得主同日誕生！台中購物節抽獎活動南屯豐樂公園熱鬧登場!：https://www.taichung.gov.tw/3417195/post
-- 2026-11-21 中市第九屆纖維創作獎首獎揭曉 吳芷容《淺山物語》串織母女與土地深情：https://www.taichung.gov.tw/3417186/post
-- 2026-11-21 一球入魂！台中市長盃排球賽熱血登場 近1,400名好手齊聚中央球場：https://www.taichung.gov.tw/3417165/post
-- 2026-11-21 第一救災救護大隊頭家厝分隊-救護訓練-OHCA 救護流程：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33369
-- 2026-11-21 第一救災救護大隊豐原分隊-救護宣導- 永湖公司宣導：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33370
-- 2026-11-21 第一救災救護大隊大雅分隊-防火宣導- 永傑紙業宣導：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33368
-- 2026-11-21 第一救災救護大隊潭子分隊-救護訓練-頭部外傷、穿刺傷、 鏟式擔架：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33367
-- 2026-11-21 暖心好醬飄香草悟道！台中36醬嘉年華熱鬧登場 展現在地美食魅力：https://www.taichung.gov.tw/3417126/post
-- 2026-11-21 股市震盪別讓情緒跟著跌！ 中市府籲善用心理、法律及社福資源：https://www.taichung.gov.tw/3417090/post
-- 2026-11-21 豐原翁子國小校舍修復落成 客庄百年老校日式宿舍變身客語教學館：https://www.taichung.gov.tw/3417109/post
-- 2026-11-21 「志氣集結 幸福有感」 彰化縣志工大會師：https://www.chcg.gov.tw/DTO/social/03bulletin/bulletin02_con.aspx?bull_id=441863
-- 2026-11-21 守護市民每一分納稅錢！中市府落實財務訪查 強化內控與行政效能：https://www.taichung.gov.tw/3417097/post
+- 2026-11-24 南投縣116年度重要道路綠美化工作委託專業服務：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169589
+- 2026-11-24 2026臺中國際巨星音樂節 鋼琴天后王羽佳與馬勒室內樂團：https://www.taichung.gov.tw/3408537/post
+- 2026-11-23 台中公私立高中及國中家長會長授證 感謝卸任會長熱心參與校務：https://www.taichung.gov.tw/3418955/post
+- 2026-11-23 臺中市車輛行車事故鑑定委員會-公布欄-最新消息：https://www.traffic.taichung.gov.tw/unit/news/index-1.asp?Parser=9,17,146,145,,,21958
+- 2026-11-23 公私協力守護空氣品質 台中市再獲環境部空品淨化區「績優單位」肯定：https://www.taichung.gov.tw/3418946/post
+- 2026-11-23 從官署到文化園區！「台中州廳的前世今生特展」邀您走進百年城市記憶：https://www.taichung.gov.tw/3418926/post
+- 2026-11-23 品嘗台中城市文化萬象！2026中市社造成果展帶來味蕾與心靈滿滿感動：https://www.taichung.gov.tw/3418935/post
+- 2026-11-23 教育部教學卓越獎中市5校橫掃2金3銀 展現跨域創新與國際教育軟實力：https://www.taichung.gov.tw/3418888/post
+- 2026-11-23 最新動向-挽袖捐熱血、學知識拿好禮！ 中市地政攜手稅務機關11/25辦公益捐血活動：https://tcpass.taichung.gov.tw/latest-trend/view/728a49cc-104b-439c-aea5-fdc69281efae
+- 2026-11-23 新社花海圓滿落幕！中市交通局6線接駁車、8處停車場 打造順暢賞花路網：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,20,,,,21954
+- 2026-11-23 ACC非洲院童慈善巡演12/25台中登場 中市府邀市民感受跨越國界的愛：https://www.taichung.gov.tw/3418585/post
+- 2026-11-23 360年信仰薪火相傳！ 石岡開台聖王廟迎建廟80週年 盧市長贈匾「開基聖德」感念護台佑民：https://www.taichung.gov.tw/3418548/post
+- 2026-11-23 第一救災救護大隊潭子分隊-火搶訓練-CAFS化學車操作訓練、 拋繩槍操作：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33382
+- 2026-11-23 跨機關破除排水難題 中市府輔導第55及56家特登工廠邁向合法：https://www.taichung.gov.tw/3418434/post
+- 2026-11-23 挽袖捐熱血、學知識拿好禮！ 中市地政攜手稅務機關11/25辦公益捐血活動：https://www.taichung.gov.tw/3418478/post
+- 2026-11-23 2026台中國際花毯節閉幕 「甜點王國」吸引425萬人次 帶動96億元觀光效益：https://www.taichung.gov.tw/3418443/post
+- 2026-11-23 8年來造價最高道路！ 東豐快東勢至石岡段通車 盧市長：兌現承諾、帶動山城繁榮：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26573
+- 2026-11-23 115年地方公職人員選舉及全國性公民投票投票所地點查詢：https://www.chcg.gov.tw/HSO/yuanlin/01news/news_a_02.aspx?bull_id=441932
+- 2026-11-23 11/28地方公職人員選舉 中市垃圾改採「定時定點」收運：https://www.taichung.gov.tw/3418046/post
+- 2026-11-23 台中協拍《女孩》傳捷報！舒淇勇奪金馬最佳新導演：https://www.taichung.gov.tw/3417967/post
+- 2026-11-23 陪伴失業勞工重拾職場競爭力！中市多元就業輔導近200場、逾1.5萬人次參與：https://www.taichung.gov.tw/3417960/post
+- 2026-11-23 11月28日（六）地方公職人員選舉，為兼顧市民垃圾清運需求及清潔人員投票權益，投票日當天暫停沿街垃圾收運，改採「國定假日定時定點」方式收運(定時定點收運時刻表、地點與平常日不同)：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26566
+- 2026-11-23 配合高鐵疏運返鄉投票旅客 中捷11/28凌晨加開2班列車：https://www.taichung.gov.tw/3417814/post
+- 2026-11-23 2026臺中市民野餐日於115年12月6日(星期日)於沙鹿區鎮立公園/南勢溪公園舉辦：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26564
+- 2026-11-23 台中促參連5年榮獲中央「優等」！ 金擘獎、超巨蛋770億招商再創佳績：https://www.taichung.gov.tw/3417523/post
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
