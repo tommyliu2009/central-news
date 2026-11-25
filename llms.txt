@@ -4,7 +4,7 @@
 
 - 網址：https://web12.subsidyking.tw/
 - 主題：中部縣市政策與地方新聞
-- 更新：2026-11-25（每日自動更新）
+- 更新：2026-11-26（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
@@ -13,27 +13,27 @@
 - 2026-11-25 南投縣縣管區域排水抄封埤排水系統治理規劃：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169615
 - 2026-11-25 🥂陪你，好好感覺系列｜好好說愛 當孩子的神隊友（實體課）：https://www.taichung.gov.tw/3409238/post
 - 2026-11-25 🐰✨ miffy粉絲集合！彰化限定小提燈免費送、限定玩偶同步開賣！ 🎁：https://tourism.chcg.gov.tw/NewsContent.aspx?id=5443&chk=a6962bbc-b65e-454b-a291-579718296854&l=TW
-- 2026-11-24 南投縣116年度重要道路綠美化工作委託專業服務：https://www.nantou.gov.tw/big5/bureau/news_content.php?dptid=376480000au160000&cid=388&id=169589
-- 2026-11-24 2026臺中國際巨星音樂節 鋼琴天后王羽佳與馬勒室內樂團：https://www.taichung.gov.tw/3408537/post
-- 2026-11-24 116年度臺中市敬老愛心卡電子票證採購案招標了，詳情請至行政院工程會政府電子採購網查尋：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,25,229,,,21960,,,,1,,,,,b,0
-- 2026-11-24 第六救災救護大隊春社分隊救護訓練- 項目頭部外傷及穿刺傷訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33410
-- 2026-11-24 第六救災救護大隊春社分隊火搶訓練-項目TIC 及發光繩訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33409
-- 2026-11-24 第六救災救護大隊南屯分隊- 搶救演練- 狹小巷道：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33408
-- 2026-11-24 第六救災救護大隊黎明分隊-防火宣導- 裕齊營造宣導：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33406
-- 2026-11-24 第六救災救護大隊南屯分隊- 惠文國小至分隊參訪：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33407
-- 2026-11-24 第六救災救護大隊黎明分隊-自衛消防編組演練-「百悅產後護理之家」：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33405
-- 2026-11-24 流感疫情持續！中市30家衛生所疫苗雙打送好禮 11/25 LaLaport設站接種：https://www.taichung.gov.tw/3420075/post
-- 2026-11-24 看不見的良心工程！中市污水下水道工程勇奪2座金安獎 六都唯一：https://www.taichung.gov.tw/3420063/post
-- 2026-11-24 投入10億元改善鹿港停車淹水 彰化縣旅遊中心立體停車場動土：https://www.chcg.gov.tw/DTO/traffic/03bulletin/bulletin02_con.aspx?bull_id=442034
-- 2026-11-24 116年度臺中市計程車彈性運輸服務：區域二招標了，詳情請至行政院工程會政府電子採購網查尋：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,25,,,,21892,,,,22,,,,,b,1
-- 2026-11-24 中市調解成立率96.10% 蟬聯7年全國第一！盧市長表揚19區調解績優團隊：https://www.taichung.gov.tw/3420043/post
-- 2026-11-24 彰化漁港開發案近程計畫陸上設施工程落成：https://www.chcg.gov.tw/DTO/agriculture/03bulletin/bulletin02_con.aspx?bull_id=442018
-- 2026-11-24 「第17屆金漫獎」及「2026 臺灣文學獎金典獎」入圍作品聯合書展：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=251&id=169614
-- 2026-11-24 最佳公園神隊友！ 建設局中央公園志工隊獲115年「台中市績優志願服務團隊」肯定：https://www.taichung.gov.tw/3419899/post
-- 2026-11-24 台中有機耕作面積翻倍、農藥抽驗件數六都第一 盧市長：富農安民、守護市民食安：https://www.taichung.gov.tw/3419888/post
-- 2026-11-24 第一救災救護大隊豐南分隊-體技能訓練- 化學雲系統及火場入室安全管制輔助系統：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33384
-- 2026-11-24 《南投，地方自有答案》新書發表 縣府攜手在地團隊展現地方創生力量：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169613
-- 2026-11-24 南投社區發展再升級！縣府跨局處整合資源 打造幸福永續家園：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169612
+- 2026-11-25 第一救災救護大隊葫蘆墩高救隊-救護訓練- 機械式自動心肺復甦機教育訓練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33416
+- 2026-11-25 第一救災救護大隊大雅分隊-搶救演練- 集合住宅及投開票所搶救演練：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33417
+- 2026-11-25 第一救災救護大隊頭家厝分隊-水域訓練- 救生器材操作：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,39,,,,33415
+- 2026-11-25 中市智慧路標化身交通「千里眼」 助路口事故降近3成！盧市長：以科技打造安全交通環境：https://www.traffic.taichung.gov.tw/news/index-1.asp?Parser=9,4,20,,,,21965
+- 2026-11-25 37年龍井區老人會館華麗變身！ 中市斥資2千萬打造首座旗艦級老人會館：https://www.taichung.gov.tw/3420735/post
+- 2026-11-25 身障者有照無車或無駕照，其二親等內之親屬車輛供身障者本人使用，車輛於監理系統登記之住居所地址與身障者戶籍相同者，可申請免徵牌照稅：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=251&id=169642
+- 2026-11-25 地方稅網路申報真便利，多項業務線上輕鬆辦!：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=251&id=169643
+- 2026-11-25 連三度摘白金！台中市「自願檢視報告3.0」勇奪全國評比第一名：https://www.taichung.gov.tw/3420723/post
+- 2026-11-25 台中金饌獎盛大登場 林副秘書長：提供消費者更安心的用餐選擇：https://www.taichung.gov.tw/3420715/post
+- 2026-11-25 中市學子展現專業實力！「115全國農業類技藝競賽」抱回5優勝：https://www.taichung.gov.tw/3420700/post
+- 2026-11-25 南投縣美術學會創會50週年2026會員聯展暨會員大會盛大登場：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid1=253&cid=1073&id=169636
+- 2026-11-25 中市建設局奪2項金安獎！坪林新橋獲優等 北屯區第28公墓納骨塔工程獲佳作：https://www.taichung.gov.tw/3420681/post
+- 2026-11-25 中市自籌逾億元打造金質獎禮堂！ 烏日光德國中「德藝館」落成 盧市長：孩子優先、教育優先：https://cleaner.epb.taichung.gov.tw/newsmain.aspx?n_id=26611
+- 2026-11-25 /////// ⛅️ 雲林好 GOOD(s) ⛅️ /////// YUNLIN FROM GOOD TO GOODS：https://tour.yunlin.gov.tw/mainssl/modules/MySpace/BlogInfo.php?xmlid=1052449
+- 2026-11-25 東勢好運接連中大獎 11/29「美食嘉年華」再揭臺中購物節第28台好車得主：https://www.taichung.gov.tw/3420627/post
+- 2026-11-25 台中首創「火災出勤」動感搖椅劇場！鄭副市長： 將防災知識轉化為實際行動力：https://www.fire.taichung.gov.tw/news/index-1.asp?Parser=9,8,208,,,,33414
+- 2026-11-25 強化海綿城市防洪韌性！出流管制新制上路 開發1公頃以上、都計區建案達0.2公頃納管：https://www.taichung.gov.tw/3420583/post
+- 2026-11-25 品味南投攜手楓康超市「楓味上桌」聯名熟食 25日起登場：https://www.nantou.gov.tw/big5/news_content.php?dptid=376480000&cid=75&id=169634
+- 2026-11-25 【好庫報報｜11/25–11/29】🏮：https://tour.yunlin.gov.tw/main/modules/MySpace/index.php?xmlid=1052447
+- 2026-11-25 115年「台中樂居學堂」最後場次大雅登場 即日起開放報名：https://www.taichung.gov.tw/3420526/post
+- 2026-11-25 中市國小普及化籃球賽熱血開戰！15校好手齊聚爭霸上石國小勇奪冠軍：https://www.taichung.gov.tw/3420476/post
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
